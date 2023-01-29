@@ -1,11 +1,17 @@
+![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFnUHHXmj6lMfhuwYtRE_oEtgRHqVoYHGOf6CPJZ9FdadMwYYJ0bsQNDMMQZ8C2USOfFdAbSsJrE70vLEHLsVwBEk9QSqe8vWC9D2NAptXgD8klW7RnQ9jVSwf-OIW4dDKWGoaojBIZ04c2HtNgpbqN5WuXiYV8nB71IPyOniWa2usgxHX48PvegC0/s16000/CYBERDOME'S%20PROFILE.png)
 <h1 align="center">Hi 👋, I'm Amal Aji</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=radical" alt="Cyber-Dome's GitHub stats" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-dome&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-dome" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@jack_woolex_" target="blank"><img src="https://img.shields.io/twitter/follow/@jack_woolex_?logo=twitter&style=for-the-badge" alt="@jack_woolex_" /></a> </p>
+
+<p align="left"> <a href="https://www.blogger.com/follow.g?blogID=717805508540449521" target="blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" </a> </p>
+  
+  <p align="left"> <a href="https://www.youtube.com/@CyberDomeYT/videos" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" </a> </p>
 
 - 🔭 I’m currently studying on [B.E Computer Science & ENGINEERING](https://cs.annauniv.edu/)
 
@@ -32,10 +38,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" </a> </p>
+<p align="left"> <a href="https://www.javascript.com" target="blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" </a> </p>
+<p align="left"> <a href="https://html.com/" target="blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" </a> </p> 
+<p align="left"> <a href="https://www.css3.com/" target="blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" </a> </p>  
+  
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-dome&" alt="cyber-dome" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-dome&show_icons=true&locale=en&layout=compact" alt="cyber-dome" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-dome&show_icons=true&locale=en" alt="cyber-dome" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-dome&" alt="cyber-dome" /></p>
