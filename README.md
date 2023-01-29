@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jack_woolex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jack_woolex_" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/amal-aji-88377a261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AMAL AJI" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amal-aji-88377a261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AMAL AJI" height="30" width="40" /></a>
 <a href="https://instagram.com/jack_woolex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jack_woolex_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CyberDomeYT/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@CyberDomeYT" height="30" width="40" /></a>
 </p>
@@ -46,5 +46,6 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-dome&" alt="cyber-dome" /></p>
+<br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-dome&show_icons=true&locale=en&layout=compact" alt="cyber-dome" /></p>
