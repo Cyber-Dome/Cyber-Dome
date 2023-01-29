@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-dome&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-dome" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jack_woolex_" target="blank"><img src="https://img.shields.io/twitter/follow/@jack_woolex_?logo=twitter&style=for-the-badge" alt="@jack_woolex_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JACK_WOOLEX_?t=YR3CkE9k2EuYWCVmeLs25Q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@jack_woolex_?logo=twitter&style=for-the-badge" alt="@jack_woolex_" /></a> </p>
 
 <p align="left"> <a href="https://www.blogger.com/follow.g?blogID=717805508540449521" target="blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" </a> </p>
   
@@ -34,7 +34,7 @@
 <a href="https://twitter.com/@jack_woolex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jack_woolex_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amal aji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal aji" height="30" width="40" /></a>
 <a href="https://instagram.com/jack_woolex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jack_woolex_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberdome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberdome" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CyberDomeYT/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@CyberDomeYT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
