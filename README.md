@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with [QRcode_generator](https://github.com/Cyber-Dome/QRcode_generator.git)
 
-- 📝 I regularly write articles on [https://www.x-tremeblogs.tech](https://www.x-tremeblogs.tech)
+- 📝 I regularly write articles on [https://www.domebytes.tech/](https://www.domebytes.tech/)
 
 - 💬 Ask me about **Python**
 
