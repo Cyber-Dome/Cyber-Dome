@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AMAL%20AJI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Tech%20Blogger&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Python+Developer;🌐+Django+%7C+HTML+%7C+CSS+%7C+JS;🗄️+SQL+%7C+PostgreSQL+%7C+MongoDB;🔐+Cybersecurity+Explorer;📝+Tech+Blogger+@+DomeBytes;🎥+YouTuber+@+CyberDomeee" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+HTML+%7C+CSS+%7C+JS;SQL+%7C+PostgreSQL+%7C+MongoDB;Cybersecurity+Explorer;Tech+Blogger+%40+DomeBytes;YouTuber+%40+CyberDomeee" alt="Typing SVG" />
+ 
+
 
 <br/>
 
