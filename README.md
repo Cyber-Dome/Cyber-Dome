@@ -96,7 +96,13 @@ me.say_hi()
 > 🔭 More projects coming soon — stay tuned!
 
 ---
+## 📊 GitHub Stats
 
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Cyber-Dome&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact&theme=tokyonight)
 ## 📊 GitHub Stats
 
 <div align="center">
