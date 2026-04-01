@@ -100,17 +100,17 @@ me.say_hi()
 ## 🚀 Github Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Dome&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Cyber-Dome&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Dome&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Dome&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
