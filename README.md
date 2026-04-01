@@ -86,12 +86,15 @@ me.say_hi()
 
 <div align="center">
 
-| 🏆 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| 🤖 **AI Enabled System for Traditional Products** | Final year project — promotes traditional products & preserves cultural heritage using AI | Python, AI/ML |
-| 📷 **QR Code Generator** | Python app to generate QR codes for URLs and text with automation | Python, Libraries |
+| Project | Description | Tech |
+|--------|------------|------|
+| 🧠 **AI-Based Traditional Product System** | Built an intelligent system to promote traditional products and preserve cultural heritage using AI concepts and recommendation logic | Python, AI/ML |
+| 📷 **QR Code Generator** | Developed a Python-based automation tool to generate QR codes for URLs and text inputs efficiently | Python |
+| ✅ **Django ToDo App** | Designed and built a full-stack task management web app with CRUD operations and responsive UI using Django and Bootstrap | Django, Bootstrap |
 
 </div>
+
+---
 
 > 🔭 More projects coming soon — stay tuned!
 
