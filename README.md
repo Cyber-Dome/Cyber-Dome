@@ -96,25 +96,22 @@ me.say_hi()
 > 🔭 More projects coming soon — stay tuned!
 
 ---
-
 ## 🚀 Github Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Cyber-Dome&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Dome&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Cyber-Dome" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Dome" width="100%"/>
 
 </div>
-
----
 
 ## 🏅 Certifications
 
