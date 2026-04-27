@@ -86,16 +86,16 @@ me.say_hi()
 
 <div align="center">
 
-| Project | Description | Tech |
-|--------|------------|------|
-| 🧠 **AI-Based Traditional Product System** | Built an intelligent system to promote traditional products and preserve cultural heritage using AI concepts and recommendation logic | Python, AI/ML |
-| 📷 **QR Code Generator** | Developed a Python-based automation tool to generate QR codes for URLs and text inputs efficiently | Python |
-| ✅ **Django ToDo App** | Designed and built a full-stack task management web app with CRUD operations and responsive UI using Django and Bootstrap | Django, Bootstrap |
+| 🚀 Project | 📄 Description | 🛠️ Tech Stack |
+|-----------|--------------|--------------|
+| 🌐 **Django Blog Application (Live)** | A full-featured blog platform with authentication, role-based dashboards (Admin/Editor/Manager), category & post management, search functionality, and comment system. Deployed on PythonAnywhere. | ![Django](https://img.shields.io/badge/Django-6.0-092E20?logo=django) ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-7952B3?logo=bootstrap) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite) |
+| 🧠 **AI-Based Traditional Product System** | Built an intelligent system to promote traditional products using AI-based recommendation logic, helping preserve cultural heritage and improve product visibility. | ![Python](https://img.shields.io/badge/Python-3-blue?logo=python) ![AI/ML](https://img.shields.io/badge/AI-ML-orange) |
+| 📷 **QR Code Generator** | Developed a Python automation tool that generates QR codes for URLs and text inputs with fast processing and simple UI integration. | ![Python](https://img.shields.io/badge/Python-3-blue?logo=python) |
+| ✅ **Django ToDo App** | Built a full-stack task management web app with CRUD operations, user-friendly interface, and responsive design using Django and Bootstrap. | ![Django](https://img.shields.io/badge/Django-Framework-092E20?logo=django) ![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3?logo=bootstrap) |
 
 </div>
 
 ---
-
 > 🔭 More projects coming soon — stay tuned!
 
 ---
