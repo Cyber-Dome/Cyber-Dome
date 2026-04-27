@@ -57,25 +57,33 @@ me.say_hi()
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### 🧩 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-6D28D9?style=for-the-badge&logo=stackshare&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Crispy Forms](https://img.shields.io/badge/Django--Crispy--Forms-4CAF50?style=for-the-badge)
+
+---
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 </div>
@@ -99,26 +107,39 @@ me.say_hi()
 > 🔭 More projects coming soon — stay tuned!
 
 ---
-## 🚀 Github Stats
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true" height="165"/>
 
-<img src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dome&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dome&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Cyber-Dome" width="60%"/>
+<br/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=Cyber-Dome&theme=tokyonight&hide_border=true" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Dome" width="100%"/>
+<br/>
+
 
 </div>
 
+
 ## 🏅 Certifications
 
-- 🐍 **Python Essentials** — Livewire Training Institute *(2023)*
-- 🌐 **Full Stack Development with Python** — GUVI *(2023)*
+- 🎓 **Full Stack Development with Python**  
+  ![GUVI](https://img.shields.io/badge/GUVI-Certified-green?style=flat&logo=google)  
+  📅 2025 | Govt. of Tamil Nadu (Naan Mudhalvan Scheme)  
+  🔹 Skills: Django, Full Stack, Web Development  
+
+- 🌐 **Network Engineering**  
+  ![CISCO](https://img.shields.io/badge/CISCO-Certified-blue?style=flat&logo=cisco)  
+  📅 2025 | Tamil Nadu Skill Development Corporation  
+  🔹 Skills: Networking, Fundamentals  
+
+- 🐍 **Python Essentials**  
+  ![Python](https://img.shields.io/badge/Python-Certified-yellow?style=flat&logo=python)  
+  📅 2023 | Livewire Training Institute  
 
 ---
 
